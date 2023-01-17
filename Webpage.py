@@ -26,5 +26,3 @@ streamlit.text_input(label="Enter what you want to add", placeholder="Enter what
                      on_change=agregar, key="textodelcuadro") #espacio de abajo
 
 
-
-streamlit.session_state
