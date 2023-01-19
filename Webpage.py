@@ -10,6 +10,8 @@ def agregar():
 
 documento = functions.readline()
 
+streamlit.set_page_config(layout="wide")
+
 streamlit.title("Web app") #titulo
 streamlit.subheader("This is a test for the subheader")#subheader
 
